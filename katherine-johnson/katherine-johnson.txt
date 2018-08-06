@@ -1,0 +1,47 @@
+
+title: Katherine Johnson
+
+-------------------------------
+
+short bio:
+
+Born: Katherine Coleman, August 26, 1918, White Sulphur Springs, West Virginia, U.S.
+Nationality: American
+Education: West Virginia State College, B.S. (summa cum laude), 1937, Mathematics & French
+Occupation: Physicist, mathematician
+Employer: NACA, NASA
+Known for: Calculating the trajectories for many NASA missions
+
+-------------------------------
+
+long bio:
+
+Katherine Coleman Goble Johnson is an African-American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. manned spaceflights. During her 35-year career at NASA and its predecessor, she earned a reputation for mastering complex manual calculations and helped the space agency pioneer the use of computers to perform the tasks. Her work included calculating trajectories, launch windows and emergency return paths for Project Mercury spaceflights, including those of astronauts Alan Shepard, the first American in space, and John Glenn, the first American in orbit, and rendezvous paths for the Apollo lunar lander and command module on flights to the Moon. Her calculations were also essential to the beginning of the Space Shuttle program, and she worked on plans for a mission to Mars. In 2015, President Barack Obama awarded Johnson the Presidential Medal of Freedom.
+
+Johnson was born Katherine Coleman in 1918 in White Sulphur Springs, Greenbrier County, West Virginia, the daughter of Joylette and Joshua Coleman. She was the youngest of four children. Her mother was a teacher and her father was a lumberman, farmer, and handyman and worked at the Greenbrier Hotel.
+
+Johnson showed a talent for math from an early age. Because Greenbrier County did not offer public schooling for African-American students past the eighth grade, the Colemans arranged for their children to attend high school at Institute, West Virginia. This school was on the campus of West Virginia State College (WVSC, now West Virginia State University). Johnson was admitted when she was only 10 years old. The family split their time between Institute during the school year and White Sulphur Springs in the summer.
+
+Johnson graduated from high school at 14 and entered West Virginia State, a historically black college. As a student, she took every math course offered by the college. Multiple professors mentored her, including chemist and mathematician Angie Turner King, who had also mentored the girl throughout high school, and W.W. Schiefflin Claytor, the third African American to receive a PhD in math. Claytor added new math courses just for Katherine. She graduated summa cum laude in 1937, with degrees in Mathematics and French, at age 18. She took on a teaching job at a black public school in Marion, Virginia.
+
+In 1939, after marrying her first husband, James Goble, Johnson left her teaching job and enrolled in a graduate math program. She quit after one year, after becoming pregnant and choosing to focus on her family. At the time of her entry, she was the first African-American woman to attend graduate school at West Virginia University in Morgantown, West Virginia. Through WVSC's president, Dr. John W. Davis, she became one of three African-American students, and the only female, selected to integrate the graduate school after the United States Supreme Court ruling Missouri ex rel. Gaines v. Canada (1938). The court had ruled that states that provided public higher education to white students also had to provide it to black students, to be satisfied either by establishing black colleges and universities or by admitting black students to previously white-only universities.
+
+-------------------------------
+
+quotes by Katherine Johnson:
+
+"Math. It's just there ... You're either right or you're wrong. That's what I like about it."
+"Girls are capable of doing everything men are capable of doing. Sometimes they have more imagination than men."
+"I felt most proud of the success of the Apollo mission. They were going to the moon and I computed the path to get there."
+
+-------------------------------
+
+image:
+
+Katherine_Johnson_at_NASA_in_1966.jpg
+
+-------------------------------
+
+Source:
+
+https://en.wikipedia.org/wiki/Katherine_Johnson
